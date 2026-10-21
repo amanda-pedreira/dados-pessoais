@@ -2,9 +2,7 @@
 
 **Em desenvolvimento**
 
-API REST desenvolvida na disciplina de Desenvolvimento de Sistemas do Senac São Paulo, utilizando Java e Spring Boot.
-
-O projeto tem como foco a implementação de operações CRUD, validação de dados, persistência com JPA/Hibernate e organização de aplicações back-end em camadas.
+API REST desenvolvida na disciplina de Desenvolvimento, utilizando Java e Spring Boot. O projeto tem como foco a implementação de operações CRUD, validação de dados, persistência com JPA/Hibernate e organização de aplicações back-end em camadas.
 
 ### Tecnologias
 
